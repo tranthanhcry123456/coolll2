@@ -24,7 +24,7 @@ public class HashSetExample1 {
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
             System.out.print(itr.next() + ", ");
-        }123
+        }123123
         // Show set through for-each
         System.out.println();
         for (String obj : set) {
