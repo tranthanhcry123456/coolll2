@@ -18,7 +18,7 @@ public class ArrayListExample1 {
         list.add("1243Java");
         list.add("C++");
         list.add("PHP");
-        list.add("Java");
+        list.add("Jav123a");
         // Show list through Iterator
         Iterator<String> itr = list.iterator();
         while (itr.hasNext()) {
