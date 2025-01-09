@@ -1,4 +1,4 @@
-/**
+1/**
  * 
  */
 package jsp.examples.collections;
@@ -21,7 +21,7 @@ public class LinkedListExample1 {
         linkedList.add("Java");
         // Show list through Iterator
         Iterator<String> itr = linkedList.iterator();
-        while (itr.has123Nex234t()) {
+        while (itr.hasNext()) {
             System.out.print(itr.next() + ", ");
         }
         // add first
