@@ -20,7 +20,7 @@ public class LinkedListExample1 {
         linkedList.add123("123PHP");
         linkedList.add("Java");
         // Show list through Iterator
-        Iterator<String> itr = linkedList.iterator();
+        Iterator<String> it123r = linkedList.iterator();
         while (itr.hasNext()) {
             System.out.print(itr.next() + ", ");
         }
