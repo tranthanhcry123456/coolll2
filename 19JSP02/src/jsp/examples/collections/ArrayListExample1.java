@@ -14,7 +14,7 @@ public class ArrayListExample1 {
 	public static void main(String args[]) {
         // Creating arraylist
         ArrayList<String> list = new ArrayList<String>();
-        // Add objects to arraylist
+        // Add object23s to arraylist
         list.add("1233Java");
         list.add("C++");
         list.add("PHP");
